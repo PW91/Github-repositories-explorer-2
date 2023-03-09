@@ -1,0 +1,37 @@
+{
+  "buttons": {
+    "search": "Search"
+  },
+  "header": {
+    "title": "GitHub repositories explorer"
+  },
+  "footer": {
+    "author": "Created by Przemysław Wieteska"
+  },
+  "form": {
+    "placeholders": {
+      "username": "Type username here"
+    },
+    "labels": {
+      "username": "Username"
+    }
+  },
+  "validations": {
+    "requiredField": "Required field!",
+    "min3Characters": "At least 3 characters!"
+  },
+  "fallback": {
+    "loadingPage": "Loading page...",
+    "notFound": "Page not found!"
+  },
+  "api": {
+    "error": "Ooops, API call was unsuccessful!"
+  },
+  "results": {
+    "noUsers": "No users found.",
+    "noRepos": "No repos found.",
+    "loadingUsers": "Loading users...",
+    "loadingRepos": "Loading repos...",
+    "forPhrase": "Results found for phrase:"
+  }
+}
